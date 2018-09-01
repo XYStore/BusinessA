@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BusinessA"
-  s.version      = "1"
+  s.version      = "7"
   s.summary      = "BusinessA."
 
   # This description is used to generate tags and improve search results.
