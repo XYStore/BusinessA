@@ -7,7 +7,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
 target 'BusinessA' do
-   pod "BusinessB_Category", :path => "../BusinessB_Category"
+   pod "BusinessB_Category"
    pod 'HandyFrame'
-
 end
