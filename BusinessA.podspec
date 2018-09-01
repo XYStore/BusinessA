@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BusinessA"
-  s.version      = "4"
+  s.version      = "5"
   s.summary      = "BusinessA."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     this is BusinessA
                    DESC
 
-  s.homepage     = "https://github.com/XYStore/BussinessA"
+  s.homepage     = "https://github.com/XYStore/BusinessA"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/XYStore/BussinessA.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/XYStore/BusinessA.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
