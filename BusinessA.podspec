@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BusinessA"
-  s.version      = "5"
+  s.version      = "6"
   s.summary      = "BusinessA."
 
   # This description is used to generate tags and improve search results.
@@ -137,5 +137,5 @@ Pod::Spec.new do |s|
   # s.dependency "BLAPIManagers"
   # s.dependency "BLMediator"
 s.dependency "BusinessB_Category"
-
+s.dependency "HandyFrame"
 end
