@@ -47,7 +47,7 @@
 {
     if (_pushBViewControllerButton == nil) {
         _pushBViewControllerButton = [UIButton buttonWithType:UIButtonTypeCustom];
-        [_pushBViewControllerButton setTitle:@"push B vc" forState:UIControlStateNormal];
+        [_pushBViewControllerButton setTitle:@"push B View Controller" forState:UIControlStateNormal];
         [_pushBViewControllerButton setTitleColor:[UIColor blueColor] forState:UIControlStateNormal];
         [_pushBViewControllerButton addTarget:self action:@selector(didTappedPushBViewControllerButton:) forControlEvents:UIControlEventTouchUpInside];
     }
